@@ -1,10 +1,13 @@
 fileFormatVersion: 2
 guid: 8f7d7e69e5dfd284e9a3573ddf7544ee
-timeCreated: 1515048799
+timeCreated: 1515260407
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: bir_0
+    21300002: bir_1
+    21300004: bir_2
+    21300006: bir_3
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -82,12 +85,51 @@ TextureImporter:
       name: bir_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 938
-        width: 1336
-        height: 917
+        x: 5
+        y: 1010
+        width: 1327
+        height: 827
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 7, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bir_1
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1009
+        width: 1331
+        height: 828
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bir_2
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 942
+        width: 1297
+        height: 905
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bir_3
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 969
+        width: 1297
+        height: 862
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

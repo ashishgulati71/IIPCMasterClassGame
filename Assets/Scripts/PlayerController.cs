@@ -38,9 +38,12 @@ public class PlayerController : MonoBehaviour {
 		   {
 			Destroy(gameObject);
 			print ("enemy collided + game over");
+			//activate gameover object
+			GameoverObject.SetActive(true);
 			//play gameover
 			gameoverAudio.Play();			
 			ScriptHolderaudio.Stop();
+
 		}
 		else if(colObject.gameObject.CompareTag("Collectable"))
 		        {
